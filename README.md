@@ -6,6 +6,8 @@
 
 I promise to love you through every software update, even the ones that delete my favorite features.
 
+One line — a robot's wedding vow, patched and re-patched, still standing.
+
 ## Run it
 
 ```sh
